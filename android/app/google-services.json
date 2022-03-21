@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "555970896582",
+    "project_id": "appteamproject2021winter",
+    "storage_bucket": "appteamproject2021winter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555970896582:android:a2fa85b3e6ee242211adc7",
+        "android_client_info": {
+          "package_name": "com.example.project_team_first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555970896582-n32kl20udbb81992t07k9g8ka3rvuc49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_team_first",
+            "certificate_hash": "70464b375a5601c39579293ec046a942f46e2c7f"
+          }
+        },
+        {
+          "client_id": "555970896582-advtopv03n190jgrufkuchfqpksf64lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAODfPkwa-xuzryWEyrKfuJ1N0nIEyftpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555970896582-advtopv03n190jgrufkuchfqpksf64lc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555970896582-9nokaobj7rfu7cmqb8u624d8bp7rs34n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.teamProjectWinter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555970896582:android:c0e6676a51486d6411adc7",
+        "android_client_info": {
+          "package_name": "com.example.team_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555970896582-aehpcjp6bui5odsel5f922595e9vh7dt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.team_project",
+            "certificate_hash": "70464b375a5601c39579293ec046a942f46e2c7f"
+          }
+        },
+        {
+          "client_id": "555970896582-advtopv03n190jgrufkuchfqpksf64lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAODfPkwa-xuzryWEyrKfuJ1N0nIEyftpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555970896582-advtopv03n190jgrufkuchfqpksf64lc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555970896582-9nokaobj7rfu7cmqb8u624d8bp7rs34n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.teamProjectWinter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
